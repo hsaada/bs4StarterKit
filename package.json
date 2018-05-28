@@ -9,6 +9,7 @@
   "author": "Hicham Saada",
   "license": "ISC",
   "dependencies": {
+    "gulp-sass": "^4.0.1",
     "jquery": "^3.0.0",
     "popper.js": "^1.14.3"
   },
